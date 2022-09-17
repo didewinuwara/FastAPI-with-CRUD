@@ -11,3 +11,8 @@ env\scripts\activate
 pip install -r requirements.txt
 uvicorn main:app --reload
 ```
+
+## Live Preview
+```bash
+https://fastapi-with-crud.herokuapp.com/docs
+```
