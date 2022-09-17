@@ -16,3 +16,5 @@ uvicorn main:app --reload
 ```bash
 https://fastapi-with-crud.herokuapp.com/docs
 ```
+
+Inspired from denis Ivy
